@@ -1,11 +1,11 @@
 # client_v2
 ## Introduction
  
-#This is a todo app, it has following function
+# This is a todo app, it has following function
 
-#Add, Update, Delete todos
+Add, Update, Delete todos
 
-#Toggle complete status of all togos
+Toggle complete status of all togos
 
 ## Project setup
 ```
