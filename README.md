@@ -1,7 +1,7 @@
 # client_v2
 ## Introduction
  
-# This is a todo app, it has following function
+### This is a todo app, it has following function
 
 Add, Update, Delete todos
 
